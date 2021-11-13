@@ -1,0 +1,6 @@
+{
+    "id": "vaultConfiguration",
+    "name": "Vault Configuration",
+    "srcdoc": "./index.html",
+    "fieldTypes": ["Object"]
+  }
